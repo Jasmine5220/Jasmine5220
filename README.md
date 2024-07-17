@@ -1,5 +1,5 @@
 # Hey there!👋
-![Cool Animation](https://i.makeagif.com/media/4-05-2022/FvBVst.gif)
+![Cool Animation](https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif)
 
 ## About Me
 
@@ -7,14 +7,9 @@
 - 🌱 Currently exploring the realms of AI and ML
 - 💡 Passionate about creating meaningful applications
 
-### Development
-
-- Web Development
-- Machine Learning
-
 ## Let's Connect!
 
-- LinkedIn: [Jasmine Jayaswal]([link](https://www.linkedin.com/in/jasmine-jayaswal-3b3181251/))
+- LinkedIn: [Jasmine Jayaswal](https://www.linkedin.com/in/jasmine-jayaswal-3b3181251/)
 
 ## Skills
 
