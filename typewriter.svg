@@ -1,0 +1,32 @@
+<svg viewBox="0 0 600 150" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .text {
+      font: 20px 'Courier New', monospace;
+      white-space: pre;
+    }
+    .cursor {
+      animation: blink 1s step-end infinite;
+    }
+    @keyframes blink {
+      50% {
+        fill: transparent;
+      }
+    }
+    .animate {
+      animation: typewriter 3s steps(40) 1s 1 normal both,
+                 blinkTextCursor 500ms steps(40) infinite normal;
+    }
+    @keyframes typewriter {
+      from { width: 0; }
+      to { width: 100%; }
+    }
+    @keyframes blinkTextCursor {
+      from { border-right-color: rgba(255,255,255,0.75); }
+      to { border-right-color: transparent; }
+    }
+  </style>
+  <text x="10" y="20" class="text animate">- 🚀 Full Stack Development | Machine Learning Enthusiast</text>
+  <text x="10" y="50" class="text animate">- 🌱 Currently exploring the realms of AI and ML</text>
+  <text x="10" y="80" class="text animate">- 💡 Passionate about creating meaningful applications</text>
+  <rect x="10" y="80" width="10" height="25" class="cursor" fill="black" />
+</svg>
