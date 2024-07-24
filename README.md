@@ -1,27 +1,27 @@
-# Hey there!👋
-
 <p align="center">
-  <img src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif" alt="Cool Animation" width="600" />
+  <img src="https://media.tenor.com/QVC1Nmb9TwUAAAAi/coding.gif" alt="Coding GIF" width="200" height="200" ">
 </p>
 
-## About Me
 
-- 🚀 Full Stack Developement | Machine Learning Enthusiast
-- 🌱 Currently exploring the realms of AI and ML
-- 💡 Passionate about creating meaningful applications
+<h2 align='center'>
+  Attention! You landed on a cool station!
+</h2> 
 
-## Let's Connect!
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Development;Exploring+realms+of+AI+and+ML;Creating+meaningful+applications&font=Fira%20Code&center=true&width=500&height=50&duration=4000&pause=1000" alt="README Typing SVG">
+</p>
 
-- LinkedIn: [Jasmine Jayaswal](https://www.linkedin.com/in/jasmine-jayaswal-3b3181251/)
+<h2 align='center'> 
+  If you want to Connect!
+</h2>
 
-## Skills
+<p align="center">
+  <a href="https://www.linkedin.com/in/jasmine-jayaswal-3b3181251/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:jasminej5220@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
 
-### Languages & Tools
 
-![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-orange?style=flat-square&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white) ![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask&logoColor=white) 
-![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat-square&logo=mongodb&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-blue?style=flat-square&logo=postgresql&logoColor=white) 
-![scikit-learn](https://img.shields.io/badge/-scikit--learn-blue?style=flat-square&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-orange?style=flat-square&logo=tensorflow&logoColor=white)
-
-### Development
-
-![Web Development](https://img.shields.io/badge/-Web_Development-purple?style=flat-square) ![Machine Learning](https://img.shields.io/badge/-Machine_Learning-green?style=flat-square) ![DevOps](https://img.shields.io/badge/-DevOps-blueviolet?style=flat-square)
