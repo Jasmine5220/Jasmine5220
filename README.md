@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.tenor.com/QVC1Nmb9TwUAAAAi/coding.gif" alt="Coding GIF" width="200" height="200" ">
+  <img src="https://media.licdn.com/dms/image/sync/v2/D4E27AQFOfDq_2S97oQ/articleshare-shrink_1280_800/B4EZZZ_3wVHUAU-/0/1745266643125?e=2147483647&v=beta&t=Ikol7zq7CapD25qxYXK-PWwWYLifPqP8P1DhJheWz0o" alt="Coding GIF" width="200" height="200" ">
 </p>
 
 
@@ -9,13 +9,6 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Development;Exploring+realms+of+AI+and+ML;Creating+meaningful+applications&font=Fira%20Code&center=true&width=500&height=50&duration=4000&pause=1000" alt="README Typing SVG">
-</p>
-
-<p align="center">
-<a href="https://github.com/Jasmine5220">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Jasmine5220&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Jasmine5220&layout=compact&langs_count=8&theme=algolia"/>
-</a>
 </p>
 
 <p align="center">
@@ -50,9 +43,9 @@
   <img src="https://img.shields.io/badge/Linux-05122A?style=flat&logo=linux"/>
   <img src="https://img.shields.io/badge/Windows-05122A?style=flat&logo=windows"/>
 </p>
-<h2 align='center'> 
+<h4 align='center' font-weight=300> 
   If you want to connect!
-</h2>
+</h4>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jasmine-jayaswal-3b3181251/" target="_blank">
